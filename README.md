@@ -23,7 +23,7 @@ Type in your terminal: pip install -r requirements.txt
 ```
 
 ```
-After all required dependencies are installed navigate to ./backend/.env file and add values to your MySQL username, password, DB name, host and port 🔗🧔🔐
+After all required dependencies are installed navigate to ./backend/.env file and add values to your MySQL host, username, password and DB name 🔗🧔🔐
 ```
 
 ```
